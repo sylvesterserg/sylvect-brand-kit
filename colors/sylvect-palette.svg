@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="930" viewBox="0 0 1240 930">
+<rect width="1240" height="930" fill="#0B0B0B"/>
+<text x="40" y="80" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="44" font-weight="700">Sylvect IT Services - Brand Palette</text>
+<text x="40" y="118" fill="#C9A84C" font-family="'IBM Plex Mono',monospace" font-size="20" letter-spacing="4">VERIFIED FROM SYLVECT.BIZ - 2026-09-25</text>
+<rect x="40" y="170" width="270" height="150" rx="16" fill="#C9A84C"/>
+<text x="58" y="262" fill="#151515" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Brand Gold</text>
+<text x="58" y="290" fill="#151515" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#C9A84C</text>
+<text x="40" y="354" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Primary - headlines, logo</text>
+<rect x="334" y="170" width="270" height="150" rx="16" fill="#7A5F25"/>
+<text x="352" y="262" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Dark Gold</text>
+<text x="352" y="290" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#7A5F25</text>
+<text x="334" y="354" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Eyebrows - diamonds</text>
+<rect x="628" y="170" width="270" height="150" rx="16" fill="#C0272D"/>
+<text x="646" y="262" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">CTA Red</text>
+<text x="646" y="290" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#C0272D</text>
+<text x="628" y="354" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Primary buttons only</text>
+<rect x="922" y="170" width="270" height="150" rx="16" fill="#0B0B0B" stroke="#333333" stroke-width="2"/>
+<text x="940" y="262" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Near Black</text>
+<text x="940" y="290" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#0B0B0B</text>
+<text x="922" y="354" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Page background</text>
+<rect x="40" y="410" width="270" height="150" rx="16" fill="#121212" stroke="#333333" stroke-width="2"/>
+<text x="58" y="502" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Card 1</text>
+<text x="58" y="530" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#121212</text>
+<text x="40" y="594" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Darkest card</text>
+<rect x="334" y="410" width="270" height="150" rx="16" fill="#171717"/>
+<text x="352" y="502" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Card 2</text>
+<text x="352" y="530" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#171717</text>
+<text x="334" y="594" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Mid card</text>
+<rect x="628" y="410" width="270" height="150" rx="16" fill="#1D1D1D"/>
+<text x="646" y="502" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Card 3</text>
+<text x="646" y="530" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#1D1D1D</text>
+<text x="628" y="594" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Lightest card</text>
+<rect x="922" y="410" width="270" height="150" rx="16" fill="#F7F7F5"/>
+<text x="940" y="502" fill="#151515" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Paper</text>
+<text x="940" y="530" fill="#151515" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#F7F7F5</text>
+<text x="922" y="594" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Light sections</text>
+<rect x="40" y="650" width="270" height="150" rx="16" fill="#151515"/>
+<text x="58" y="742" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Ink</text>
+<text x="58" y="770" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#151515</text>
+<text x="40" y="834" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Dark text on light</text>
+<rect x="334" y="650" width="270" height="150" rx="16" fill="#7E7E7E"/>
+<text x="352" y="742" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Muted (dark)</text>
+<text x="352" y="770" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#7E7E7E</text>
+<text x="334" y="834" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Sub-lines on dark</text>
+<rect x="628" y="650" width="270" height="150" rx="16" fill="#6B6B6B"/>
+<text x="646" y="742" fill="#FFFFFF" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Muted (light)</text>
+<text x="646" y="770" fill="#FFFFFF" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#6B6B6B</text>
+<text x="628" y="834" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Muted on light</text>
+<rect x="922" y="650" width="270" height="150" rx="16" fill="#6FCF97"/>
+<text x="940" y="742" fill="#151515" font-family="'DM Sans',sans-serif" font-size="26" font-weight="700">Status Green</text>
+<text x="940" y="770" fill="#151515" font-family="'IBM Plex Mono',monospace" font-size="20" opacity="0.85">#6FCF97</text>
+<text x="922" y="834" fill="#8A8A8A" font-family="'IBM Plex Mono',monospace" font-size="16">Rarely needed</text>
+</svg>
