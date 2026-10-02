@@ -1,0 +1,29 @@
+:root {
+  /* Sylvect IT Services — brand colors (from sylvect.biz, verified 2026-09-25) */
+
+  /* Primary */
+  --sylvect-gold: #C9A84C;        /* headline accents, logo "S" + "VECT", hovers */
+  --sylvect-gold-dark: #7A5F25;   /* eyebrows on light sections, logo diamonds */
+  --sylvect-red: #C0272D;         /* primary CTAs ONLY — use sparingly */
+  --sylvect-red-hover: #9E2025;
+
+  /* Surfaces — dark */
+  --sylvect-black: #0B0B0B;       /* page background */
+  --sylvect-card-1: #121212;
+  --sylvect-card-2: #171717;
+  --sylvect-card-3: #1D1D1D;
+  --sylvect-footer: #0A0A0A;
+
+  /* Surfaces — light */
+  --sylvect-paper: #F7F7F5;
+  --sylvect-ink: #151515;         /* dark text on light */
+
+  /* Text */
+  --sylvect-text-heading: #FFFFFF;
+  --sylvect-text-body: rgba(255, 255, 255, 0.7);
+  --sylvect-text-muted-dark: #7E7E7E;   /* muted on dark */
+  --sylvect-text-muted-light: #6B6B6B;  /* muted on light */
+
+  /* Status */
+  --sylvect-green: #6FCF97;       /* rarely needed */
+}
